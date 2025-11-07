@@ -225,7 +225,7 @@ The **Stacking Regressor** achieved the lowest RMSE (~69.95), outperforming all 
 
 ---
 
-## ▶️ Reproducibility
+## Reproducibility
 
 - Fixed random seed (`RANDOM_STATE = 224`) ensures consistent results
 - Run all cells in order; results will be displayed at the end
